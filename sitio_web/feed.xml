@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:E07F6616-4F07-4CCF-99BF-ADDCA73F5328</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-11-08T23:16:56+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:673FAD85-2D61-4264-86AA-A294F8607BF4</id>
+  <title>Intro</title>
+  <title xmlns="urn:iweb:">Intro</title>
+  <in-navbar xmlns="urn:iweb:">673FAD85-2D61-4264-86AA-A294F8607BF4</in-navbar>
+  <link rel="alternate" href="Intro.html"/>
+  <updated>2012-11-08T23:16:56.001+01:00</updated>
+  <content>Intro</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3A975ECE-8DDB-4B1A-B937-EEBDD5C5AC45</id>
+  <title>Información </title>
+  <title xmlns="urn:iweb:">Información </title>
+  <in-navbar xmlns="urn:iweb:">3A975ECE-8DDB-4B1A-B937-EEBDD5C5AC45</in-navbar>
+  <link rel="alternate" href="Informacion.html"/>
+  <updated>2012-11-08T23:16:56.002+01:00</updated>
+  <content>Información </content>
+ </entry>
+ <entry>
+  <id>urn:iweb:73B17D24-7E3A-4C49-836E-3A5AF230E30C</id>
+  <title>Técnicas</title>
+  <title xmlns="urn:iweb:">Técnicas</title>
+  <in-navbar xmlns="urn:iweb:">73B17D24-7E3A-4C49-836E-3A5AF230E30C</in-navbar>
+  <link rel="alternate" href="Tecnicas.html"/>
+  <updated>2012-11-08T23:16:56.003+01:00</updated>
+  <content>Técnicas</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:111F9D94-F159-488C-847F-07522DB9F5EF</id>
+  <title>Disfruta de un sueño lúcido</title>
+  <title xmlns="urn:iweb:">Disfruta de un sueño lúcido</title>
+  <in-navbar xmlns="urn:iweb:">111F9D94-F159-488C-847F-07522DB9F5EF</in-navbar>
+  <link rel="alternate" href="Disfruta_de_un_sueno_lucido.html"/>
+  <updated>2012-11-08T23:16:56.004+01:00</updated>
+  <content>Disfruta de un sueño lúcido</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6591912B-F378-4976-BB8D-E9E9CA6FCB03</id>
+  <title>Curiosidades</title>
+  <title xmlns="urn:iweb:">Curiosidades</title>
+  <in-navbar xmlns="urn:iweb:">6591912B-F378-4976-BB8D-E9E9CA6FCB03</in-navbar>
+  <link rel="alternate" href="Curiosidades.html"/>
+  <updated>2012-11-08T23:16:56.005+01:00</updated>
+  <content>Curiosidades</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C944DC6B-07B1-416C-ACB3-D68C2C911BCE</id>
+  <title>Enlaces</title>
+  <title xmlns="urn:iweb:">Enlaces</title>
+  <in-navbar xmlns="urn:iweb:">C944DC6B-07B1-416C-ACB3-D68C2C911BCE</in-navbar>
+  <link rel="alternate" href="Enlaces.html"/>
+  <updated>2012-11-08T23:16:56.006+01:00</updated>
+  <content>Enlaces</content>
+ </entry>
+</feed>
